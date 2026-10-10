@@ -1,0 +1,14 @@
+{
+  "source_rows": 65457,
+  "source_columns": 114,
+  "exact_duplicates_removed": 20,
+  "respondents": 65437,
+  "countries": 185,
+  "missing_country": 6507,
+  "missing_compensation": 42002,
+  "positive_compensation_responses": 23435,
+  "median_annual_compensation_usd": 65000.0,
+  "compensation_iqr_upper_usd": 220860.75,
+  "compensation_iqr_outliers": 978,
+  "job_sample_records": 27005
+}
